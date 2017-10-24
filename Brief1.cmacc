@@ -1,0 +1,22 @@
+$ from = [./lib/headers/AppjectionBV.cmacc]
+$ to = [./lib/headers/CentraleVerwerkingOpenbaarMinisterie.cmacc]
+
+$ aanhef = [./lib/headers/Aanhef.cmacc]
+
+$ body = [./lib/content/Body.cmacc]
+$ gronden = [./lib/content/Gronden.cmacc]
+
+$ footer = [./lib/footers/Hoogachtend.cmacc]
+
+{{from}}
+
+{{to}}
+
+{{aanhef}}
+
+{{body}}
+
+{{gronden}}
+
+{{footer}}
+

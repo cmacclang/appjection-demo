@@ -1,0 +1,7 @@
+$ betreft = 'aanvullend administratief beroep tegen beschikking'
+$ bijlage = 'bewijsstukken en machtiging'
+$ date = null
+
+Betreft: {{betreft}}  
+Bijlage: {{bijlage}}  
+Dagtekening: {{date}}
